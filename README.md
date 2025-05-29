@@ -13,11 +13,11 @@ Provide a trustless, transparent, and on-chain mechanism for identity authentica
 - Identity submission with name and metadata (IPFS-based)
 - Status tracking: Pending, Verified, Rejected
 - Verifier role with authority to approve/reject
-- Fully on-chain records
+- Fully on chain records
 
 ## 🚀 Future Scope
 
-- Integration with off-chain data oracles for document validation
+- Integration with off chain data oracles for document validation
 - Decentralized reputation scores based on verification history
 - DID (Decentralized Identifiers) and W3C compliance
 - Integration with soulbound tokens or zkProofs
