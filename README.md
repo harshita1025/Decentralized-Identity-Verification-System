@@ -20,7 +20,7 @@ Provide a trustless, transparent, and on-chain mechanism for any identity regist
 - Integration with off chain data oracles for document validation identity registration
 - Decentralized reputation scores based on verification history
 - DID (Decentralized Identifiers) and W3C compliance
-- Integration with soulbound tokens or zkProofs
+- Integration with soulbound tokens or zkProofs decentralized system
 
 ## 📜 Deployment Instructions
 
