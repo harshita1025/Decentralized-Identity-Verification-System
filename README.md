@@ -6,7 +6,7 @@ A decentralized identity verification system for identity registration and verif
 
 ## 🌍 Project Vision
 
-Provide a trustless, transparent, and on-chain mechanism for any Project description identity registration, identity authentication, reducing reliance on centralized KYC solutions.
+Provide a trustless, transparent, and on-chain mechanism for any Project description identity registration version, identity authentication, reducing reliance on centralized KYC solutions.
 
 ## 🔑 Key Features
 
