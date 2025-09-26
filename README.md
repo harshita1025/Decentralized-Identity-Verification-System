@@ -2,7 +2,7 @@
 
 ## 📘 Project Description
 
-A decentralized identity verification system for identity registration and verification where users can submit personal metadata (e.g. documents) and authorized verifiers approve or reject this project.
+A decentralized identity verification system for identity registration and verification where users can submit to personal metadata (e.g. documents) and authorized verifiers approve or reject this project.
 
 ## 🌍 Project Vision
 
