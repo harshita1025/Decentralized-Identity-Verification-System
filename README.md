@@ -12,7 +12,7 @@ Provide a trustless, transparent, and on-chain mechanism for any Project descrip
 
 - Identity submission with name and metadata (IPFS-based)
 - Status tracking: Pending, Verified or Rejected.
-- Verifier role with authority to approve/rejected
+- Verifier role with authority to approve/rejected.
 - Fully on chain records decentralized identity verification system
 
 ## 🚀 Future Scope
